@@ -1,0 +1,6 @@
+type Animal @model {
+  id: ID!
+  name: String!
+  description: String
+  location: String
+}
